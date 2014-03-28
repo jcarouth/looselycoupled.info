@@ -4,10 +4,10 @@
 
 url: http://looselycoupled.info
 title: The Loosely Coupled Podcast
-subtitle: Jeff Carouth talks about architecture, design, and practices for modern web application development
-author: Jeff Carouth
+subtitle: Jeff Carouth and Matt Frost discuss developer life as it relates to practice and patterns
+author: Jeff Carouth and Matt Frost
 simple_search: http://google.com/search
-description: Loosely Coupled aims to expose listeners to professional practices, software craftsmanship, object-oriented design, and architecture insights applicable to developing web applications with scripting languages such as PHP and Ruby.
+description: Loosely Coupled aims to expose listeners to professional practices, software craftsmanship, object-oriented design, and architecture insights applicable to daily life as a developer.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -50,7 +50,7 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/github.html]
+default_asides: [asides/recent_posts.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: _looselycoupled
 twitter_tweet_button: true
 
 # Google +1
