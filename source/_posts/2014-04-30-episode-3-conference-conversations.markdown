@@ -30,6 +30,7 @@ Episode 3 of the Loosely Coupled podcast was recorded live at [Lone Star PHP](ht
 - [Eli White](https://twitter.com/eliw)
 - [Jake Smith](https://twitter.com/jakefolio)
 - [The other Jake Smith](https://twitter.com/jakeasmith)
+- [Elizabeth Naramore](https://twitter.com/ElizabethN)
 - [NomadPHP](http://nomadphp.com)
 - [Calling All Papers](http://callingallpapers.com)
 - [Lake / Kenosha County PHP Users Group](http://www.meetup.com/Lake-Kenosha-PHP-Users-Group/)
