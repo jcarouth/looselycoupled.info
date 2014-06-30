@@ -10,4 +10,4 @@ In this is episode Matt and Jeff discuss how to build a testing culture in your 
 <% raw %>
 <iframe src="https://media.signalleaf.com/player/Loosely-Coupled/53b17fb7306886020000000a/" width="500" height="70" frameborder="0"></iframe>
 <% endraw %>
-[Download](https://media.signalleaf.com/player/Loosely-Coupled/53b17fb7306886020000000a/LooselyCoupled-Episode7-BuildingATestingCulture.mp3)
+[Download](https://media.signalleaf.com/Loosely-Coupled/53b17fb7306886020000000a/LooselyCoupled-Episode7-BuildingATestingCulture.mp3)
