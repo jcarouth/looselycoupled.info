@@ -10,13 +10,13 @@ In this episode Jeff and Matt talk about the idea of polyglotism, the benefits, 
 
 ### Links
 
-[F#](http://fsharp.org/)
-[@jclermont](https://twitter.com/jclermont)
-[clojure](http://clojure.org/)
-[@igorwhiletrue](https://twitter.com/igorwhiletrue)
-[Learn $x the Hard Way](http://learncodethehardway.org/)
-[codecademy](http://www.codecademy.com/)
-[The Splat Operator in PHP 5.6 by Lorna Jane](http://www.lornajane.net/posts/2014/php-5-6-and-the-splat-operator)
+- [F#](http://fsharp.org/)
+- [@jclermont](https://twitter.com/jclermont)
+- [clojure](http://clojure.org/)
+- [@igorwhiletrue](https://twitter.com/igorwhiletrue)
+- [Learn $x the Hard Way](http://learncodethehardway.org/)
+- [codecademy](http://www.codecademy.com/)
+- [The Splat Operator in PHP 5.6 by Lorna Jane](http://www.lornajane.net/posts/2014/php-5-6-and-the-splat-operator)
 
 {% raw %}
 <iframe src="https://media.signalleaf.com/player/Loosely-Coupled/53ce663c722ed30200a83b72/" width="500" height="70" frameborder="0"></iframe>
