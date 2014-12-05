@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 15: Mental Health in the Tech Industry"
-date: 2014-12-08 10:00
+date: 2014-12-05 11:00
 comments: true
 categories: 
 - Mental Health
