@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 17: Mentoring and Apprenticing"
-date: 2015-01-16 10:00
+date: 2015-01-15 19:45
 comments: true
 categories: 
 - Mentoring
