@@ -37,5 +37,5 @@ Finally, we are proponents of giving back to the community. Our show is about im
 
 ## Contact
 
-We are always happy to answer questions you might have about sponsorship, our show, or our listeners. Please get in touch with us at jcarouth@gmail.com or mfrost.design@gmail.com.
+We are always happy to answer questions you might have about sponsorship, our show, or our listeners. Please get in touch with us at sponsors@looselycoupled.info.
 
