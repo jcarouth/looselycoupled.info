@@ -1,2 +1,12 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+#logo-header-container {
+    text-indent: -9000px;
+}
+
+#site-title {
+    display: block;
+    width: 250px;
+    height: 135px;
+    background: url('../images/loosely-coupled-logo_web_white_rgb.png') no-repeat;
+}
