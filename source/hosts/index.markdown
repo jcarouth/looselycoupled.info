@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "hosts"
+title: "Hosts"
 comments: false
 sharing: true
 footer: true
@@ -9,7 +9,7 @@ The Loosely Coupled Podcast started as an experiment in distributing information
 
 ## Jeff Carouth
 
-{% img right /images/JeffCarouth545a7def75731.jpg 250 250 'Jeff Carouth Photo' %}
+{% img right /images/JeffCarouth545a7def75731.jpg 250 250 "Jeff Carouth Photo" %}
 
 Jeff Carouth is a web application developer honing his programming and skiing skills at Liftopia. He is an active member of the PHP community, speaker, and co-host of the Loosely Coupled podcast. He believes quality code, testing, and automation are necessary ingredients in a recipe for a successful software project. When not hacking away at code he is a father and husband, beer and Scotch enthusiast, and an amateur photographer. 
 
@@ -17,7 +17,7 @@ Follow Jeff on Twitter as [@jcarouth](https://twitter.com/jcarouth) and read his
 
 ## Matt Frost
 
-{% img right /images/MatthewFrost546f2e01bd7df.png 250 250 'Jeff Carouth Photo' %}
+{% img right /images/MatthewFrost546f2e01bd7df.png 250 250 'Matt Frost Photo' %}
 
 Matt has been working with PHP professionally for the last 8 years and is actively involved in the PHP Community as a Mentor and an Apprentice. Matt loves to talk about technology, writing tests and all variants of sportsball. When not writing code, Matt enjoys playing drums and guitar, running long distances, and spending time with his two amazingly awesome children.
 
