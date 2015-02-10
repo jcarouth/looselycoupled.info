@@ -1,16 +1,10 @@
 ---
-layout: post
+layout: episode
 title: "Episode 2: My Code is Perfect"
 date: 2014-04-14 07:00
-comments: true
-categories: Clean Code
+signal_leaf_id: 53497613eda3b00200000006
 ---
 Writing clean code isn't something you pick up overnight, nor is it a brand new topic. In this episode Jeff and Matt discuss the characteristics and mechanics of creating clean code and how to approach your project from a clean code perspective.
-
-{% raw %}
-<iframe src="http://media.signalleaf.com/player/Loosely-Coupled/53497613eda3b00200000006/" width="500" height="70" frameborder="0"></iframe>
-{% endraw %}
-[Download](http://media.signalleaf.com/Loosely-Coupled/53497613eda3b00200000006/LooselyCoupled-Episode2-MyCodeIsPerfect.mp3)
 
 ### Notes
 

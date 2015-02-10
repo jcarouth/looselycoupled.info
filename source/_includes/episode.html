@@ -1,0 +1,19 @@
+{% unless page.no_header %}
+  <header>
+    {% if index %}
+      <h1 class="entry-title"><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h1>
+    {% else %}
+      <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+    {% endif %}
+    {% unless page.meta == false %}
+      <p class="meta">
+        {% include post/date.html %}{{ time }}
+      </p>
+    {% endunless %}
+  </header>
+{% endunless %}
+<div class="entry-content">
+    {{ content }}
+    {%if index %}{% assign signal_leaf_id = post.signal_leaf_id %}{% else %}{% assign signal_leaf_id = page.signal_leaf_id %}{% endif %}
+    <iframe src="https://media.signalleaf.com/player/Loosely-Coupled/{{ signal_leaf_id }}/" width="500" height="70" frameborder="0"></iframe>
+</div>
