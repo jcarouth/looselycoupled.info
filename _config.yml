@@ -4,8 +4,8 @@
 
 url: http://looselycoupled.info
 title: The Loosely Coupled Podcast
-subtitle: Jeff Carouth and Matt Frost discuss developer life as it relates to practice and patterns
-author: Jeff Carouth and Matt Frost
+subtitle: Jeff Carouth and Matt Frost combine their decades of experience as web developers to talk about developer life.
+author: Loosely Coupled
 simple_search: http://google.com/search
 description: Loosely Coupled aims to expose listeners to professional practices, software craftsmanship, object-oriented design, and architecture insights applicable to daily life as a developer.
 
@@ -16,10 +16,10 @@ description: Loosely Coupled aims to expose listeners to professional practices,
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://feeds.feedburner.com/looselycoupled-podcast
+subscribe_rss: http://feeds.feedblitz.com/loosely-coupled
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: podcast@looselycoupled.info
 
 # ----------------------- #
 #    Jekyll & Plugins     #
