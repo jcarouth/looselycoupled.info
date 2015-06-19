@@ -9,9 +9,9 @@ Sponsoring the Loosely Coupled podcast is a great way to help support the profes
 
 ## Stats
 
-- Total Listens: 25,475
-- 6-week Average: 813
-- RSS Subscribers: 449
+- Total Listens: 32,477
+- 6-week Average: 849
+- RSS Subscribers: 516
 
 ## Rates
 
