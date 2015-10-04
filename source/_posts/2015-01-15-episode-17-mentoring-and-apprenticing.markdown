@@ -2,7 +2,10 @@
 layout: episode
 title: "Episode 17: Mentoring and Apprenticing"
 date: 2015-01-15 19:45
+episode_number: 17
 signal_leaf_id: 54b86de77e875a030027d1bb
+libsyn_id: '3795680'
+download_url: 'http://traffic.libsyn.com/looselycoupled/LooselyCoupled-Episode17-MentoringAndApprenticing.mp3'
 ---
 In this episode Jeff and Matt talk about the idea of establishing and participating in mentoring relationships. As participants in the [PHP Mentoring](http://phpmentoring.org) organization or initiative, mentorship is an important part of Jeff's and Matt's lives as developers. The main theme in this episode is that you should find a way to get past your fears and find a way to get involved with mentoring in your community. Along the way they cover some advice based on past experiences of what to expect and how to establish successful relationships.
 

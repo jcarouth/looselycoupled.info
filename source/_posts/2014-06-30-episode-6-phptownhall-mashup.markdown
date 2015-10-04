@@ -2,7 +2,10 @@
 layout: episode
 title: "Episode 6: PHPTownHall Mashup"
 date: 2014-06-30 12:01
+episode_number: 6
 signal_leaf_id: 53b17e033068860200000008
+libsyn_id: '3795691'
+download_url: 'http://traffic.libsyn.com/looselycoupled/LooselyCoupled-Episode6-PHPTownHallMashup.mp3'
 ---
 In this episode, Matt and Jeff join forces with PHPTownHall to talk about Open Source, burn out and briefly discuss their favorite open source projects. Jeff had a spell of bad luck with the wifi at the AirBnB he stayed at in San Franciso, so you may not get as much of him as you'd like.
 

@@ -2,7 +2,10 @@
 layout: episode
 title: "Episode 3: Conference Conversations"
 date: 2014-04-30 20:02
+episode_number: 3
 signal_leaf_id: 5361a53daad1940200000021
+libsyn_id: '3795694'
+download_url: 'http://traffic.libsyn.com/looselycoupled/LooselyCoupled-Episode3-ConferenceConversations.mp3'
 ---
 Episode 3 of the Loosely Coupled podcast was recorded live at [Lone Star PHP](http://lonestarphp.com). Since we were at a conference, we decided to do a meta episode about conference experiences and speaking at conferences. This episode covers information from how Jeff and Matt got involved with the conference community all the way through some advice on submitting your first talks. If you have never been to a conference, find a way to get to one soon. It's more than just the presentations.
 

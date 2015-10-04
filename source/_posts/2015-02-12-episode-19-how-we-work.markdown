@@ -3,8 +3,10 @@ layout: episode
 title: "Episode 19: How We Work"
 date: 2015-02-12 10:48
 signal_leaf_id: 54dcd7fd56543e0300b3d350
+libsyn_id: '3795678'
 episode_number: 19
-embed_url: http://media.signalleaf.com/Loosely-Coupled/54dcd7fd56543e0300b3d350/LooselyCoupled-Episode19-HowWeWork.mp3 
+embed_url: http://media.signalleaf.com/Loosely-Coupled/54dcd7fd56543e0300b3d350/LooselyCoupled-Episode19-HowWeWork.mp3
+download_url: 'http://traffic.libsyn.com/looselycoupled/LooselyCoupled-Episode19-HowWeWork.mp3'
 ---
 In this episode Jeff and Matt explore how they go about organizing their work life and our personal lives. They cover the idea of how the process evolves depending on your environment and even your personal inclinations. In 2011, Jeff wrote a blog post about the tools he used back then and realized that it has changed a little but for the most part works for him. They cover some pitfalls of processes that require tickets/stories to be broken down into parts where developers cannot understand what they're doing or why, and how they've learned over time to get to that information. They also talked about learning how to be professionals and defend against situations that would impact your work or your code in negative ways. Finally they touch on Matt's work scheduling experiment which is inspired by the Makers Schedule versus the Managers Schedule and how it has helped him be more productive.
 
