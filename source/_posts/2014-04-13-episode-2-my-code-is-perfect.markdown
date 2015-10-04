@@ -2,7 +2,10 @@
 layout: episode
 title: "Episode 2: My Code is Perfect"
 date: 2014-04-14 07:00
+episode_number: 2
 signal_leaf_id: 53497613eda3b00200000006
+libsyn_id: '3795695'
+downloade_url: 'http://traffic.libsyn.com/looselycoupled/LooselyCoupled-Episode2-MyCodeIsPerfect.mp3'
 ---
 Writing clean code isn't something you pick up overnight, nor is it a brand new topic. In this episode Jeff and Matt discuss the characteristics and mechanics of creating clean code and how to approach your project from a clean code perspective.
 

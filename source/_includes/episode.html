@@ -15,5 +15,9 @@
 <div class="entry-content">
     {{ content }}
     {%if index %}{% assign signal_leaf_id = post.signal_leaf_id %}{% else %}{% assign signal_leaf_id = page.signal_leaf_id %}{% endif %}
-    <iframe src="https://media.signalleaf.com/player/Loosely-Coupled/{{ signal_leaf_id }}/" width="500" height="70" frameborder="0"></iframe>
+    {%if index %}{% assign libsyn_id = post.libsyn_id %}{% else %}{% assign libsyn_id = page.libsyn_id %}{% endif %}
+    <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/{{ libsyn_id }}/height/21/width/358/theme/standard-mini/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="21" width="358" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+    <p>
+    <a href="{{ post.download_url }}">Download</a>
+    </p>
 </div>
